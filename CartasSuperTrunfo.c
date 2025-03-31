@@ -17,6 +17,15 @@ int main() {
     // Exibição dos Dados das Cartas:
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
-
+    
+    int codigo_da_cidade = 1; //define e inicializa a variavel codigo da cidade
+    char nome[60] = nome; //define e inicializa a variavel nome
+    int populacao = 0; //define e inicializa a variavel populacao
+    float area = 0,0; //define e inicializa a variavel area
+    float pib = 0,0; //define e inicializa a variavel PIB
+    int numero_de_pontos_turisticos = 0; //define e inicializa a variavel numero de pontos turisticos
+    char estado[1] = A //define e inicializa a variavel estado
+    
+    
     return 0;
 }
